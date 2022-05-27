@@ -61,7 +61,7 @@ p{
 }
 
 body{
-    background: url() no-repeat center center fixed; 
+    background: url(https://cdn.jsdelivr.net/gh/hitorihigh/assets/banner.webp) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
