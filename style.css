@@ -32,174 +32,22 @@ ul li a {
 }
 
 .pgr {
-    background: url( ) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/hitorihigh/assets/PP.webp) no-repeat;
     background-position: -14px 0px;
     padding: 91px 0 0 0;
 }
 
-.mcg {
-    background: url( ) no-repeat;
-    background-position: -14px -91px;
-    padding: 91px 0 0 0;
-}
-
 .pgs {
-    background: url( ) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/hitorihigh/assets/PGSOFT.webp) no-repeat;
     background-position: -14px -182px;
     padding: 91px 0 0 0;
 }
 
-.ttg {
-    background: url( ) no-repeat;
-    background-position: -14px -273px;
-    padding: 91px 0 0 0;
-}
-
-.hb {
-    background: url( ) no-repeat;
-    background-position: -14px -364px;
-    padding: 91px 0 0 0;
-}
-
-.bbn {
-    background: url( ) no-repeat;
-    background-position: -14px -455px;
-    padding: 91px 0 0 0;
-}
-
-.bbp {
-    background: url( ) no-repeat;
-    background-position: -14px -546px;
-    padding: 91px 0 0 0;
-}
-
-.spd {
-    background: url( ) no-repeat;
-    background-position: -14px -637px;
-    padding: 91px 0 0 0;
-}
-
-.jkr {
-    background: url( ) no-repeat;
-    background-position: -14px -728px;
-    padding: 91px 0 0 0;
-}
-
-.pst {
-    background: url( ) no-repeat;
-    background-position: -14px -819px;
-    padding: 91px 0 0 0;
-}
-
-.cq9 {
-    background: url( ) no-repeat;
-    background-position: -14px -910px;
-    padding: 91px 0 0 0;
-}
-
-.bng {
-    background: url( ) no-repeat;
-    background-position: -14px -1001px;
-    padding: 91px 0 0 0;
-}
-
-.sll {
-    background: url( ) no-repeat;
-    background-position: -14px -1092px;
-    padding: 91px 0 0 0;
-}
-
-.pgr .game-front-icon {
-    background: url() #1d1b1b no-repeat;
-    background-position: center;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.mcg .game-front-icon {
-    background: url() #1d1b1b no-repeat;
-    background-position: center;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.pgs .game-front-icon {
-    background: url() #1d1b1b no-repeat;
-    background-position: center;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.ttg .game-front-icon {
-    background: url() #1d1b1b no-repeat;
-    background-position: center -1521px;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.hb .game-front-icon {
-    background: url( ) #1d1b1b no-repeat;
-    background-position: center -73px;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.bbn .game-front-icon {
-    background: url( ) #1d1b1b no-repeat;
-    background-position: center -1210px;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.bbp .game-front-icon {
-    background: url( ) #1d1b1b no-repeat;
-    background-position: center -1676px;
-    background-size: 90%;
-    min-height: 45px
-}
-
 .spd .game-front-icon {
-    background: url( ) #1d1b1b no-repeat;
+    background: url( https://cdn.jsdelivr.net/gh/hitorihigh/assets/SPADEGAMING.webp ) #1d1b1b no-repeat;
     background-position: center -140px;
     background-size: 90%;
     min-height: 45px
-}
-
-.jkr .game-front-icon {
-    background: url( ) #1d1b1b no-repeat;
-    background-position: center -350px;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.pst .game-front-icon {
-    background: url( ) #1d1b1b no-repeat;
-    background-position: center -1363px;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.cq9 .game-front-icon {
-    background: url( ) #1d1b1b no-repeat;
-    background-position: center -1595px;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.bng .game-front-icon {
-    background: url( ) #1d1b1b no-repeat;
-    background-position: center -2020px;
-    background-size: 90%;
-    min-height: 45px
-}
-
-.sll .game-front-icon {
-    background: url() #1d1b1b no-repeat;
-    background-position: center -1857px;
-    background-size: 90%;
-    min-height: 45px
-}
-
 .banner {
     text-align: center;
 }
